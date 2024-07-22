@@ -1,0 +1,14 @@
+Build a job board platform where 
+employers can post job listings and job seekers can search and apply for
+ jobs .
+Implement feature
+-job listings 
+-candidate profiles 
+-resumes uploads
+-job application tracking 
+
+
+users  name,email,password , phone  , qualification , field  , address  ,applicationHistory
+jobs   name description 
+
+
